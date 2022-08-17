@@ -2,7 +2,7 @@
 # Contributing to Project Management App
 
 Though *Project Management App* is developed and maintained by Texas A&M University Libraries, we welcome community contributions.
-Involvement in *Project Management App* can take many forms:
+Involvement in *Project Management App* can take many forms.
 
 <div align="right">(<a href="#readme-top">back to top</a>)</div>
 
