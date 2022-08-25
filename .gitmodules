@@ -1,0 +1,6 @@
+[submodule "service"]
+	path = service
+	url = git@github.com:TAMULib/ProjectManagementService.git
+[submodule "client"]
+	path = client
+	url = git@github.com:TAMULib/ProjectManagementUI.git
